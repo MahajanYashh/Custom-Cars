@@ -1,5 +1,4 @@
-# Custom-Cars
-# Static Website README
+# Custom-Cars Static Website README
 
 ## Overview
 This repository contains a static website built using HTML, CSS, and JavaScript. The website consists of 5 pages, including the following main pages:
